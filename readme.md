@@ -1,24 +1,29 @@
 # Hi, I’m Ankur Gavri
 
-I work in IT service operations and build practical tools with AI, Python, and web technologies. My projects explore document search, automation, local machine learning, and interactive experiences.
+I work in IT service operations and build practical AI proofs of concept, security tools, and automation.
 
-I’m also an author of children’s books and graphic retellings—a creative side that sits alongside my interest in technology.
+My projects explore document-grounded AI, local computer vision, operational security workflows, and applications that solve everyday problems.
 
-## Projects
+## AI and computer-vision POCs
 
-- **Local RAG Agent** — A document Q&A assistant using Ollama, Mistral, and local embeddings, with optional live web search and source references.
-- **Mentallo — The Midnight Oracle** — An interactive fortune-teller built with HTML, CSS, and JavaScript, featuring sound, speech, keyboard controls, and reduced-motion support.
-- **Local Face ID** — A local computer-vision prototype using Python, Flask, and OpenCV to explore face enrolment and recognition.
+- **Local RAG Agent** — A local document Q&A assistant using Ollama, Mistral, and embeddings, with optional web search and source references.
+- **Local Face ID** — A local face-recognition prototype built with Python, Flask, and OpenCV.
 
-## What I’m exploring
+These are local proofs of concept rather than production services.
 
-- Local AI and document-grounded assistants
-- Automation for everyday tasks
-- Accessible, interactive web applications
-- Creative workflows for illustrated books and storytelling
+## Selected projects
+
+- **[DLP Toolkit](https://github.com/gavriankur/dlpswissarmyknife)** — Browser-based utilities for exploring sensitive-data patterns, file fingerprints, and DLP policy logic.
+- **[EmailSec Toolkit](https://github.com/gavriankur/emailserviceswissarmyknife)** — Email-header analysis, authentication-record helpers, and suspicious-message indicators.
+- **[Rewrite Studio](https://github.com/gavriankur/rewrite-studio)** — A text-revision prototype with side-by-side editing and optional server-side OpenAI integration.
+- **[AirTrace](https://github.com/gavriankur/AirTrace)** — An offline flight-journey companion combining flight-data lookup, cached maps, optional phone GPS, and journey estimates.
+
+## Other work
+
+I also build tools for [service-status aggregation](https://github.com/gavriankur/DownDetector), [scheduled market-data collection](https://github.com/gavriankur/portfolio), and [OCI IAM policy drafting](https://github.com/gavriankur/iampage).
 
 ## Beyond code
 
-My books include *Reyansh & Astro*, *Sergeant Sock-It*, and *The Odyssey — A Graphic Retelling*.
+I write children’s books and graphic retellings, including *Reyansh & Astro*, *Sergeant Sock-It*, and *The Odyssey — A Graphic Retelling*.
 
 [Explore my books on Amazon](https://us.amazon.com/stores/Ankur-Gavri/author/B0H9YQV7SH)
